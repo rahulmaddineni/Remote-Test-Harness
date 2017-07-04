@@ -1,0 +1,10 @@
+.txt
+-----------------------------
+test1
+passed
+demo test that always passes
+-----------------------------
+test2
+failed
+file not loaded
+-----------------------------

@@ -1,0 +1,87 @@
+﻿<Window x:Class="CommChannelDemo.Client2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ClientGUI2"
+        mc:Ignorable="d"
+        Title="Client2" Height="350" Width="525">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="30"/>
+        </Grid.RowDefinitions>
+        <TabControl Grid.Row="0" Name="tabcontrol1" TabStripPlacement="Top" FontFamily="Tahoma" FontWeight="SemiBold" FontSize="10">
+            <TabItem Header="Upload" Name="UploadTabItem">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="40" />
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="40" />
+                    </Grid.RowDefinitions>
+                    <StackPanel Grid.Row="0" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center" >
+                        <Label>Repository</Label>
+                        <Button Height="23" Margin="20,0" Name="RepoStreamConnectButton" 
+                                 Width="70" Click="RepoStreamConnectButton_Click">Connect</Button>
+                    </StackPanel>
+                    <ListBox Grid.Row="1" Margin="65,20" Name="DLLListBox" SelectionMode="Multiple"/>
+                    <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center" >
+                        <Button Height="23" Margin="20,0" Name="BrowseDLLButton" 
+                                HorizontalAlignment="Right" Width="70" HorizontalContentAlignment="Center" Click="BrowseDLLButton_Click">Browse</Button>
+                        <Button Height="23" Margin="20,0" Name="UploadDLLButton" 
+                                HorizontalAlignment="Right" Width="70" HorizontalContentAlignment="Center" Click="UploadDLLButton_Click">Upload</Button>
+                    </StackPanel>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Test" Name="TestTabItem">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="40" />
+                        <RowDefinition Height="40" />
+                        <RowDefinition Height="40" />
+                        <RowDefinition Height="*" />
+                    </Grid.RowDefinitions>
+                    <StackPanel Grid.Row="0" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center" >
+                        <Label>Test Harness</Label>
+                        <Button Height="23" Margin="20,0" Name="TestHarnessConnectButton" 
+                                 Width="70" Click="TestHarnessConnectButton_Click" >Connect</Button>
+                        <Button Height="23" Margin="20,0" Name="SendRequestButton" 
+                                 Width="70" Click="SendRequestButton_Click">Send</Button>
+                    </StackPanel>
+                    <Label Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center">Build the Test Request from the Libraries Provided Beelow:</Label>
+                    <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center" >
+                        <Label Margin="25,0">Test Driver</Label>
+                        <ComboBox Width="100" Name="testDriverCombo"></ComboBox>
+                        <Label Margin="25,0">Test Code</Label>
+                        <ComboBox Width="100" Name="testCodeCombo"></ComboBox>
+                    </StackPanel>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Results" Name="ResultsTabItem">
+                <Grid>
+                    <TextBlock Name="ResultsText" Margin="10">
+
+                    </TextBlock>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Logs" Name="LogTabItem">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="30"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    <StackPanel Grid.Row="0" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center" >
+                        <TextBox Width="200" Name="QueryText">Enter Query Here</TextBox>
+                        <Button Height="23" Margin="20,0" Name="SendQueryButton" 
+                                 Width="70" Click="SendQueryButton_Click">Query</Button>
+                    </StackPanel>
+                    <ListBox Grid.Row="1" Margin="10" Name="LogsListBox" SelectionMode="Multiple"/>
+                </Grid>
+            </TabItem>
+        </TabControl>
+        <StatusBar Grid.Row="1" Name="statusBar1" Canvas.Left="0" Canvas.Bottom="0" Height="23" Width="{Binding Path=ActualWidth}" Margin="0,0">
+            <TextBlock Margin="5,0">Status:</TextBlock>
+            <TextBlock Name="statusText" Margin="0,0"></TextBlock>
+        </StatusBar>
+    </Grid>
+</Window>

@@ -1,0 +1,19 @@
+G:\Sem3\SMA\Project4\CommChannelDemo\Client\bin\Debug\Client.exe.config
+G:\Sem3\SMA\Project4\CommChannelDemo\Client\bin\Debug\Client.exe
+G:\Sem3\SMA\Project4\CommChannelDemo\Client\bin\Debug\Client.pdb
+G:\Sem3\SMA\Project4\CommChannelDemo\Client\bin\Debug\Communication.exe
+G:\Sem3\SMA\Project4\CommChannelDemo\Client\bin\Debug\Messages.exe
+G:\Sem3\SMA\Project4\CommChannelDemo\Client\bin\Debug\MessageTest.exe
+G:\Sem3\SMA\Project4\CommChannelDemo\Client\bin\Debug\TestDeserialization.exe
+G:\Sem3\SMA\Project4\CommChannelDemo\Client\bin\Debug\CS-BlockingQueue.exe
+G:\Sem3\SMA\Project4\CommChannelDemo\Client\bin\Debug\Communication.pdb
+G:\Sem3\SMA\Project4\CommChannelDemo\Client\bin\Debug\Messages.pdb
+G:\Sem3\SMA\Project4\CommChannelDemo\Client\bin\Debug\MessageTest.pdb
+G:\Sem3\SMA\Project4\CommChannelDemo\Client\bin\Debug\TestDeserialization.pdb
+G:\Sem3\SMA\Project4\CommChannelDemo\Client\bin\Debug\CS-BlockingQueue.pdb
+G:\Sem3\SMA\Project4\CommChannelDemo\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+G:\Sem3\SMA\Project4\CommChannelDemo\Client\obj\Debug\Client.exe
+G:\Sem3\SMA\Project4\CommChannelDemo\Client\obj\Debug\Client.pdb
+C:\Users\Rahul\Desktop\G Partition\Sem3\SMA\Project4\RahulMaddineni_616469356_Project4\CommChannelDemo\Client\bin\Debug\Client.exe.config
+C:\Users\Rahul\Desktop\G Partition\Sem3\SMA\Project4\RahulMaddineni_616469356_Project4\CommChannelDemo\Client\obj\Debug\Client.exe
+C:\Users\Rahul\Desktop\G Partition\Sem3\SMA\Project4\RahulMaddineni_616469356_Project4\CommChannelDemo\Client\obj\Debug\Client.pdb

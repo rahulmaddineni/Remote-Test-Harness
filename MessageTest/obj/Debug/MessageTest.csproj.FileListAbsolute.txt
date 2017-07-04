@@ -1,0 +1,10 @@
+G:\Sem3\SMA\Project4\CommChannelDemo\MessageTest\bin\Debug\MessageTest.exe.config
+G:\Sem3\SMA\Project4\CommChannelDemo\MessageTest\bin\Debug\MessageTest.exe
+G:\Sem3\SMA\Project4\CommChannelDemo\MessageTest\bin\Debug\MessageTest.pdb
+G:\Sem3\SMA\Project4\CommChannelDemo\MessageTest\bin\Debug\Messages.exe
+G:\Sem3\SMA\Project4\CommChannelDemo\MessageTest\bin\Debug\TestDeserialization.exe
+G:\Sem3\SMA\Project4\CommChannelDemo\MessageTest\bin\Debug\Messages.pdb
+G:\Sem3\SMA\Project4\CommChannelDemo\MessageTest\bin\Debug\TestDeserialization.pdb
+G:\Sem3\SMA\Project4\CommChannelDemo\MessageTest\obj\Debug\MessageTest.csprojResolveAssemblyReference.cache
+G:\Sem3\SMA\Project4\CommChannelDemo\MessageTest\obj\Debug\MessageTest.exe
+G:\Sem3\SMA\Project4\CommChannelDemo\MessageTest\obj\Debug\MessageTest.pdb

@@ -1,0 +1,16 @@
+G:\Sem3\SMA\Project4\CommChannelDemo\Client2\bin\Debug\Client2.exe.config
+G:\Sem3\SMA\Project4\CommChannelDemo\Client2\bin\Debug\Client2.exe
+G:\Sem3\SMA\Project4\CommChannelDemo\Client2\bin\Debug\Client2.pdb
+G:\Sem3\SMA\Project4\CommChannelDemo\Client2\bin\Debug\Communication.exe
+G:\Sem3\SMA\Project4\CommChannelDemo\Client2\bin\Debug\Messages.exe
+G:\Sem3\SMA\Project4\CommChannelDemo\Client2\bin\Debug\MessageTest.exe
+G:\Sem3\SMA\Project4\CommChannelDemo\Client2\bin\Debug\TestDeserialization.exe
+G:\Sem3\SMA\Project4\CommChannelDemo\Client2\bin\Debug\CS-BlockingQueue.exe
+G:\Sem3\SMA\Project4\CommChannelDemo\Client2\bin\Debug\Communication.pdb
+G:\Sem3\SMA\Project4\CommChannelDemo\Client2\bin\Debug\Messages.pdb
+G:\Sem3\SMA\Project4\CommChannelDemo\Client2\bin\Debug\MessageTest.pdb
+G:\Sem3\SMA\Project4\CommChannelDemo\Client2\bin\Debug\TestDeserialization.pdb
+G:\Sem3\SMA\Project4\CommChannelDemo\Client2\bin\Debug\CS-BlockingQueue.pdb
+G:\Sem3\SMA\Project4\CommChannelDemo\Client2\obj\Debug\Client2.csprojResolveAssemblyReference.cache
+G:\Sem3\SMA\Project4\CommChannelDemo\Client2\obj\Debug\Client2.exe
+G:\Sem3\SMA\Project4\CommChannelDemo\Client2\obj\Debug\Client2.pdb

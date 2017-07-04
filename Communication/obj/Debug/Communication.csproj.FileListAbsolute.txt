@@ -1,0 +1,12 @@
+G:\Sem3\SMA\Project4\CommChannelDemo\Communication\bin\Debug\Communication.exe.config
+G:\Sem3\SMA\Project4\CommChannelDemo\Communication\bin\Debug\Communication.exe
+G:\Sem3\SMA\Project4\CommChannelDemo\Communication\bin\Debug\Communication.pdb
+G:\Sem3\SMA\Project4\CommChannelDemo\Communication\bin\Debug\CS-BlockingQueue.exe
+G:\Sem3\SMA\Project4\CommChannelDemo\Communication\bin\Debug\Messages.exe
+G:\Sem3\SMA\Project4\CommChannelDemo\Communication\bin\Debug\TestDeserialization.exe
+G:\Sem3\SMA\Project4\CommChannelDemo\Communication\bin\Debug\CS-BlockingQueue.pdb
+G:\Sem3\SMA\Project4\CommChannelDemo\Communication\bin\Debug\Messages.pdb
+G:\Sem3\SMA\Project4\CommChannelDemo\Communication\bin\Debug\TestDeserialization.pdb
+G:\Sem3\SMA\Project4\CommChannelDemo\Communication\obj\Debug\Communication.csprojResolveAssemblyReference.cache
+G:\Sem3\SMA\Project4\CommChannelDemo\Communication\obj\Debug\Communication.exe
+G:\Sem3\SMA\Project4\CommChannelDemo\Communication\obj\Debug\Communication.pdb

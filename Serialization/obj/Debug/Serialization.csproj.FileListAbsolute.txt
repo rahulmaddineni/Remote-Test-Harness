@@ -1,0 +1,12 @@
+C:\SU\cse681\code\Project4HelpF16\TestDeserialization\TestDeserialization\bin\Debug\TestDeserialization.exe.config
+C:\SU\cse681\code\Project4HelpF16\TestDeserialization\TestDeserialization\bin\Debug\TestDeserialization.exe
+C:\SU\cse681\code\Project4HelpF16\TestDeserialization\TestDeserialization\bin\Debug\TestDeserialization.pdb
+C:\SU\cse681\code\Project4HelpF16\TestDeserialization\TestDeserialization\obj\Debug\Serialization.csprojResolveAssemblyReference.cache
+C:\SU\cse681\code\Project4HelpF16\TestDeserialization\TestDeserialization\obj\Debug\TestDeserialization.exe
+C:\SU\cse681\code\Project4HelpF16\TestDeserialization\TestDeserialization\obj\Debug\TestDeserialization.pdb
+G:\Sem3\SMA\Project4\CommChannelDemo\Serialization\bin\Debug\TestDeserialization.exe.config
+G:\Sem3\SMA\Project4\CommChannelDemo\Serialization\bin\Debug\TestDeserialization.exe
+G:\Sem3\SMA\Project4\CommChannelDemo\Serialization\bin\Debug\TestDeserialization.pdb
+G:\Sem3\SMA\Project4\CommChannelDemo\Serialization\obj\Debug\TestDeserialization.exe
+G:\Sem3\SMA\Project4\CommChannelDemo\Serialization\obj\Debug\TestDeserialization.pdb
+G:\Sem3\SMA\Project4\CommChannelDemo\Serialization\obj\Debug\Serialization.csprojResolveAssemblyReference.cache
