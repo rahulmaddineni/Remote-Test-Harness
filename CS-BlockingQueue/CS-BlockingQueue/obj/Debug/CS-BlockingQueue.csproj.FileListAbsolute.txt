@@ -4,3 +4,9 @@ G:\Sem3\SMA\Project4\CommChannelDemo\CS-BlockingQueue\CS-BlockingQueue\bin\Debug
 G:\Sem3\SMA\Project4\CommChannelDemo\CS-BlockingQueue\CS-BlockingQueue\obj\Debug\CS-BlockingQueue.exe
 G:\Sem3\SMA\Project4\CommChannelDemo\CS-BlockingQueue\CS-BlockingQueue\obj\Debug\CS-BlockingQueue.pdb
 G:\Sem3\SMA\Project4\CommChannelDemo\CS-BlockingQueue\CS-BlockingQueue\obj\Debug\CS-BlockingQueue.csprojResolveAssemblyReference.cache
+C:\Users\Rahul\Desktop\RahulMaddineni_616469356_Project4\CommChannelDemo\CS-BlockingQueue\CS-BlockingQueue\bin\Debug\CS-BlockingQueue.exe.config
+C:\Users\Rahul\Desktop\RahulMaddineni_616469356_Project4\CommChannelDemo\CS-BlockingQueue\CS-BlockingQueue\bin\Debug\CS-BlockingQueue.exe
+C:\Users\Rahul\Desktop\RahulMaddineni_616469356_Project4\CommChannelDemo\CS-BlockingQueue\CS-BlockingQueue\bin\Debug\CS-BlockingQueue.pdb
+C:\Users\Rahul\Desktop\RahulMaddineni_616469356_Project4\CommChannelDemo\CS-BlockingQueue\CS-BlockingQueue\obj\Debug\CS-BlockingQueue.csprojResolveAssemblyReference.cache
+C:\Users\Rahul\Desktop\RahulMaddineni_616469356_Project4\CommChannelDemo\CS-BlockingQueue\CS-BlockingQueue\obj\Debug\CS-BlockingQueue.exe
+C:\Users\Rahul\Desktop\RahulMaddineni_616469356_Project4\CommChannelDemo\CS-BlockingQueue\CS-BlockingQueue\obj\Debug\CS-BlockingQueue.pdb

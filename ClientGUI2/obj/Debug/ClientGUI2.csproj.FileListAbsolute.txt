@@ -31,3 +31,33 @@ G:\Sem3\SMA\Project4\CommChannelDemo\ClientGUI2\obj\Debug\ClientGUI2.pdb
 C:\Users\Rahul\Desktop\G Partition\Sem3\SMA\Project4\RahulMaddineni_616469356_Project4\CommChannelDemo\ClientGUI2\bin\Debug\ClientGUI2.exe.config
 C:\Users\Rahul\Desktop\G Partition\Sem3\SMA\Project4\RahulMaddineni_616469356_Project4\CommChannelDemo\ClientGUI2\obj\Debug\ClientGUI2.exe
 C:\Users\Rahul\Desktop\G Partition\Sem3\SMA\Project4\RahulMaddineni_616469356_Project4\CommChannelDemo\ClientGUI2\obj\Debug\ClientGUI2.pdb
+C:\Users\Rahul\Desktop\RahulMaddineni_616469356_Project4\CommChannelDemo\ClientGUI2\bin\Debug\ClientGUI2.exe.config
+C:\Users\Rahul\Desktop\RahulMaddineni_616469356_Project4\CommChannelDemo\ClientGUI2\obj\Debug\ClientGUI2.exe
+C:\Users\Rahul\Desktop\RahulMaddineni_616469356_Project4\CommChannelDemo\ClientGUI2\obj\Debug\ClientGUI2.pdb
+C:\Users\Rahul\Desktop\RahulMaddineni_616469356_Project4\CommChannelDemo\ClientGUI2\bin\Debug\ClientGUI2.exe
+C:\Users\Rahul\Desktop\RahulMaddineni_616469356_Project4\CommChannelDemo\ClientGUI2\bin\Debug\ClientGUI2.pdb
+C:\Users\Rahul\Desktop\RahulMaddineni_616469356_Project4\CommChannelDemo\ClientGUI2\bin\Debug\Client.exe
+C:\Users\Rahul\Desktop\RahulMaddineni_616469356_Project4\CommChannelDemo\ClientGUI2\bin\Debug\Communication.exe
+C:\Users\Rahul\Desktop\RahulMaddineni_616469356_Project4\CommChannelDemo\ClientGUI2\bin\Debug\Messages.exe
+C:\Users\Rahul\Desktop\RahulMaddineni_616469356_Project4\CommChannelDemo\ClientGUI2\bin\Debug\MessageTest.exe
+C:\Users\Rahul\Desktop\RahulMaddineni_616469356_Project4\CommChannelDemo\ClientGUI2\bin\Debug\Microsoft.VisualStudio.PerformanceTools.Automation.dll
+C:\Users\Rahul\Desktop\RahulMaddineni_616469356_Project4\CommChannelDemo\ClientGUI2\bin\Debug\TestDeserialization.exe
+C:\Users\Rahul\Desktop\RahulMaddineni_616469356_Project4\CommChannelDemo\ClientGUI2\bin\Debug\CS-BlockingQueue.exe
+C:\Users\Rahul\Desktop\RahulMaddineni_616469356_Project4\CommChannelDemo\ClientGUI2\bin\Debug\EnvDTE.dll
+C:\Users\Rahul\Desktop\RahulMaddineni_616469356_Project4\CommChannelDemo\ClientGUI2\bin\Debug\stdole.dll
+C:\Users\Rahul\Desktop\RahulMaddineni_616469356_Project4\CommChannelDemo\ClientGUI2\bin\Debug\Client.pdb
+C:\Users\Rahul\Desktop\RahulMaddineni_616469356_Project4\CommChannelDemo\ClientGUI2\bin\Debug\Communication.pdb
+C:\Users\Rahul\Desktop\RahulMaddineni_616469356_Project4\CommChannelDemo\ClientGUI2\bin\Debug\Messages.pdb
+C:\Users\Rahul\Desktop\RahulMaddineni_616469356_Project4\CommChannelDemo\ClientGUI2\bin\Debug\MessageTest.pdb
+C:\Users\Rahul\Desktop\RahulMaddineni_616469356_Project4\CommChannelDemo\ClientGUI2\bin\Debug\TestDeserialization.pdb
+C:\Users\Rahul\Desktop\RahulMaddineni_616469356_Project4\CommChannelDemo\ClientGUI2\bin\Debug\CS-BlockingQueue.pdb
+C:\Users\Rahul\Desktop\RahulMaddineni_616469356_Project4\CommChannelDemo\ClientGUI2\bin\Debug\EnvDTE.xml
+C:\Users\Rahul\Desktop\RahulMaddineni_616469356_Project4\CommChannelDemo\ClientGUI2\obj\Debug\ClientGUI2.csprojResolveAssemblyReference.cache
+C:\Users\Rahul\Desktop\RahulMaddineni_616469356_Project4\CommChannelDemo\ClientGUI2\obj\Debug\MainWindow.g.cs
+C:\Users\Rahul\Desktop\RahulMaddineni_616469356_Project4\CommChannelDemo\ClientGUI2\obj\Debug\App.g.cs
+C:\Users\Rahul\Desktop\RahulMaddineni_616469356_Project4\CommChannelDemo\ClientGUI2\obj\Debug\ClientGUI2_MarkupCompile.cache
+C:\Users\Rahul\Desktop\RahulMaddineni_616469356_Project4\CommChannelDemo\ClientGUI2\obj\Debug\ClientGUI2_MarkupCompile.lref
+C:\Users\Rahul\Desktop\RahulMaddineni_616469356_Project4\CommChannelDemo\ClientGUI2\obj\Debug\MainWindow.baml
+C:\Users\Rahul\Desktop\RahulMaddineni_616469356_Project4\CommChannelDemo\ClientGUI2\obj\Debug\ClientGUI2.g.resources
+C:\Users\Rahul\Desktop\RahulMaddineni_616469356_Project4\CommChannelDemo\ClientGUI2\obj\Debug\ClientGUI2.Properties.Resources.resources
+C:\Users\Rahul\Desktop\RahulMaddineni_616469356_Project4\CommChannelDemo\ClientGUI2\obj\Debug\ClientGUI2.csproj.GenerateResource.Cache
